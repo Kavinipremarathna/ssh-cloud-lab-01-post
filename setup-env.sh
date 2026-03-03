@@ -2,10 +2,6 @@
 
 set -euo pipefail
 
-
-
-# --- Config (you can change the base directory name if your lab wants another) ---
-
 BASE_DIR="$HOME/nginx-lab"
 
 DIRS=(
